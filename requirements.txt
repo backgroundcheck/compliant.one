@@ -1,1 +1,5 @@
-streamlit\npandas\nfpdf\nfuzzywuzzy\npython-Levenshtein
+streamlit
+pandas
+fpdf
+fuzzywuzzy
+python-Levenshtein
